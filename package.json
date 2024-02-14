@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Rajesh3435.github.io/E-commerce",
+  "homepage": "https://Rajesh3435.github.io/Cresol-Project",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -20,9 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-     "deploy": "gh-pages -d build"
-
-
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
